@@ -2,7 +2,7 @@
 <div>
 <h2>Como rodar o projeto 👇</h2>
 <h3>Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo</h3>
-<p>1.git clone https://github.com/Henrique-Moreno/Desafio-0---Com-React</p>
+<p>1.git clone https://github.com/Henrique-Moreno/DesafioComReact</p>
 <p>2.yarn para instalar as dependências do projeto</p>
 <p>3.yarn start</p>
 <p>4.Acessar https://localhost:3000 no navegador</p>
