@@ -1,6 +1,16 @@
-# Lista de tarefas
-
-Nada melhor do que uma lista de tarefas aonde você possa se organizar não é mesmo.
+# Lista de tarefas <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<div>
+<h2>Como rodar o projeto 👇</h2>
+<h3>Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo</h3>
+<p>1.git clone https://github.com/Henrique-Moreno/Desafio-0---Com-React</p>
+<p>2.yarn para instalar as dependências do projeto</p>
+<p>3.yarn start</p>
+<p>4.Acessar https://localhost:3000 no navegador</p>
+</div>
+<hr>
+<div>
+<h1>Nada melhor do que uma lista de tarefas aonde você possa se organizar não é mesmo.</h1>
+<div>
 
 ![Captura de Tela (74)](https://user-images.githubusercontent.com/88099935/199062445-1d4cb504-1e4d-4369-abb2-ce75de8964cb.png)
 
@@ -20,13 +30,10 @@ Nada melhor do que uma lista de tarefas aonde você possa se organizar não é m
 
 ![Captura de Tela (83)](https://user-images.githubusercontent.com/88099935/199067157-3e5eff1f-e061-46fe-b627-41a7edc9aebb.png)
 
-## 
-
-<div>
-<h2>Como rodar o projeto 👇</h2>
-<h3>Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo</h3>
-<p>1.git clone https://github.com/Henrique-Moreno/Desafio-0---Com-React</p>
-<p>2.yarn para instalar as dependências do projeto</p>
-<p>3.yarn start</p>
-<p>4.Acessar https://localhost:3000 no navegador</p>
-</div>
+<div style="display: inline_block"><br/>
+<p>Tecnologias utilizadas</p>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  </div>
